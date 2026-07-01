@@ -1,0 +1,252 @@
+[
+  {
+    "candidate_id": "C001",
+    "full_name": "John Doe",
+    "primary_email": "john.doe@gmail.com",
+    "primary_phone": "+919876543210",
+    "city": "Chennai",
+    "headline": "Senior Backend Engineer",
+    "years_experience": 6,
+    "skill_names": [
+      "django",
+      "machine learning",
+      "python",
+      "sql"
+    ],
+    "confidence": 0.78,
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "recruiter.csv",
+        "method": "direct"
+      },
+      {
+        "field": "emails",
+        "source": "recruiter.csv",
+        "method": "direct"
+      },
+      {
+        "field": "phones",
+        "source": "recruiter.csv",
+        "method": "direct"
+      },
+      {
+        "field": "location",
+        "source": "recruiter.csv",
+        "method": "direct"
+      },
+      {
+        "field": "headline",
+        "source": "recruiter_notes.txt",
+        "method": "extracted"
+      },
+      {
+        "field": "years_experience",
+        "source": "recruiter_notes.txt",
+        "method": "extracted"
+      },
+      {
+        "field": "skills.python",
+        "source": "recruiter_notes.txt",
+        "method": "direct/extracted"
+      },
+      {
+        "field": "skills.machine learning",
+        "source": "recruiter_notes.txt",
+        "method": "direct/extracted"
+      },
+      {
+        "field": "skills.django",
+        "source": "recruiter_notes.txt",
+        "method": "direct/extracted"
+      },
+      {
+        "field": "skills.sql",
+        "source": "recruiter_notes.txt",
+        "method": "direct/extracted"
+      }
+    ]
+  },
+  {
+    "candidate_id": "C002",
+    "full_name": "Priya Sharma",
+    "primary_email": "priya.sharma@yahoo.com",
+    "primary_phone": "+919876543222",
+    "city": "Bengaluru",
+    "headline": "Data Scientist",
+    "years_experience": 4,
+    "skill_names": [
+      "artificial intelligence",
+      "machine learning",
+      "python",
+      "statistics"
+    ],
+    "confidence": 0.78,
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "recruiter.csv",
+        "method": "direct"
+      },
+      {
+        "field": "emails",
+        "source": "recruiter.csv",
+        "method": "direct"
+      },
+      {
+        "field": "phones",
+        "source": "recruiter.csv",
+        "method": "direct"
+      },
+      {
+        "field": "location",
+        "source": "recruiter.csv",
+        "method": "direct"
+      },
+      {
+        "field": "headline",
+        "source": "recruiter_notes.txt",
+        "method": "extracted"
+      },
+      {
+        "field": "years_experience",
+        "source": "recruiter_notes.txt",
+        "method": "extracted"
+      },
+      {
+        "field": "skills.python",
+        "source": "recruiter_notes.txt",
+        "method": "direct/extracted"
+      },
+      {
+        "field": "skills.artificial intelligence",
+        "source": "recruiter_notes.txt",
+        "method": "direct/extracted"
+      },
+      {
+        "field": "skills.machine learning",
+        "source": "recruiter_notes.txt",
+        "method": "direct/extracted"
+      },
+      {
+        "field": "skills.statistics",
+        "source": "recruiter_notes.txt",
+        "method": "direct/extracted"
+      }
+    ]
+  },
+  {
+    "candidate_id": "C003",
+    "full_name": "Arjun Mehta",
+    "primary_email": "arjun.mehta@gmail.com",
+    "primary_phone": null,
+    "city": "Pune",
+    "headline": "Frontend Developer",
+    "years_experience": 3,
+    "skill_names": [
+      "css",
+      "javascript",
+      "react"
+    ],
+    "confidence": 0.78,
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "recruiter.csv",
+        "method": "direct"
+      },
+      {
+        "field": "emails",
+        "source": "recruiter.csv",
+        "method": "direct"
+      },
+      {
+        "field": "location",
+        "source": "recruiter.csv",
+        "method": "direct"
+      },
+      {
+        "field": "headline",
+        "source": "recruiter_notes.txt",
+        "method": "extracted"
+      },
+      {
+        "field": "years_experience",
+        "source": "recruiter_notes.txt",
+        "method": "extracted"
+      },
+      {
+        "field": "skills.javascript",
+        "source": "recruiter_notes.txt",
+        "method": "direct/extracted"
+      },
+      {
+        "field": "skills.react",
+        "source": "recruiter_notes.txt",
+        "method": "direct/extracted"
+      },
+      {
+        "field": "skills.css",
+        "source": "recruiter_notes.txt",
+        "method": "direct/extracted"
+      }
+    ]
+  },
+  {
+    "candidate_id": "C004",
+    "full_name": "Sneha Iyer",
+    "primary_email": "sneha.iyer@outlook.com",
+    "primary_phone": "+919123456789",
+    "city": null,
+    "headline": "Product Manager",
+    "years_experience": 5,
+    "skill_names": [
+      "artificial intelligence",
+      "product management",
+      "sql"
+    ],
+    "confidence": 0.7,
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "recruiter_notes.txt",
+        "method": "extracted"
+      },
+      {
+        "field": "emails",
+        "source": "recruiter_notes.txt",
+        "method": "extracted"
+      },
+      {
+        "field": "phones",
+        "source": "recruiter_notes.txt",
+        "method": "extracted"
+      },
+      {
+        "field": "headline",
+        "source": "recruiter_notes.txt",
+        "method": "extracted"
+      },
+      {
+        "field": "years_experience",
+        "source": "recruiter_notes.txt",
+        "method": "extracted"
+      },
+      {
+        "field": "skills.product management",
+        "source": "recruiter_notes.txt",
+        "method": "direct/extracted"
+      },
+      {
+        "field": "skills.sql",
+        "source": "recruiter_notes.txt",
+        "method": "direct/extracted"
+      },
+      {
+        "field": "skills.artificial intelligence",
+        "source": "recruiter_notes.txt",
+        "method": "direct/extracted"
+      }
+    ]
+  }
+]

@@ -1,0 +1,4 @@
+candidate_id,name,email,phone,location
+C001,john doe,John.Doe@gmail.com,9876543210,"Chennai, Tamil Nadu, India"
+C002,priya sharma, Priya.Sharma@Yahoo.com ,98765 43222,"Bengaluru, Karnataka, India"
+C003,arjun mehta,arjun.mehta@gmail.com,,"Pune, Maharashtra, India"

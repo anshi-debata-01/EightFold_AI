@@ -1,0 +1,398 @@
+[
+  {
+    "candidate_id": "C001",
+    "full_name": "John Doe",
+    "emails": [
+      "john.doe@gmail.com"
+    ],
+    "phones": [
+      "+919876543210"
+    ],
+    "location": {
+      "city": "Chennai",
+      "region": "Tamil Nadu",
+      "country": "India"
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": "Senior Backend Engineer",
+    "years_experience": 6,
+    "skills": [
+      {
+        "name": "django",
+        "confidence": 0.7,
+        "sources": [
+          "recruiter_notes.txt"
+        ]
+      },
+      {
+        "name": "machine learning",
+        "confidence": 0.7,
+        "sources": [
+          "recruiter_notes.txt"
+        ]
+      },
+      {
+        "name": "python",
+        "confidence": 0.7,
+        "sources": [
+          "recruiter_notes.txt"
+        ]
+      },
+      {
+        "name": "sql",
+        "confidence": 0.7,
+        "sources": [
+          "recruiter_notes.txt"
+        ]
+      }
+    ],
+    "experience": [],
+    "education": [],
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "recruiter.csv",
+        "method": "direct"
+      },
+      {
+        "field": "emails",
+        "source": "recruiter.csv",
+        "method": "direct"
+      },
+      {
+        "field": "phones",
+        "source": "recruiter.csv",
+        "method": "direct"
+      },
+      {
+        "field": "location",
+        "source": "recruiter.csv",
+        "method": "direct"
+      },
+      {
+        "field": "headline",
+        "source": "recruiter_notes.txt",
+        "method": "extracted"
+      },
+      {
+        "field": "years_experience",
+        "source": "recruiter_notes.txt",
+        "method": "extracted"
+      },
+      {
+        "field": "skills.python",
+        "source": "recruiter_notes.txt",
+        "method": "direct/extracted"
+      },
+      {
+        "field": "skills.machine learning",
+        "source": "recruiter_notes.txt",
+        "method": "direct/extracted"
+      },
+      {
+        "field": "skills.django",
+        "source": "recruiter_notes.txt",
+        "method": "direct/extracted"
+      },
+      {
+        "field": "skills.sql",
+        "source": "recruiter_notes.txt",
+        "method": "direct/extracted"
+      }
+    ],
+    "overall_confidence": 0.78
+  },
+  {
+    "candidate_id": "C002",
+    "full_name": "Priya Sharma",
+    "emails": [
+      "priya.sharma@yahoo.com"
+    ],
+    "phones": [
+      "+919876543222"
+    ],
+    "location": {
+      "city": "Bengaluru",
+      "region": "Karnataka",
+      "country": "India"
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": "Data Scientist",
+    "years_experience": 4,
+    "skills": [
+      {
+        "name": "artificial intelligence",
+        "confidence": 0.7,
+        "sources": [
+          "recruiter_notes.txt"
+        ]
+      },
+      {
+        "name": "machine learning",
+        "confidence": 0.7,
+        "sources": [
+          "recruiter_notes.txt"
+        ]
+      },
+      {
+        "name": "python",
+        "confidence": 0.7,
+        "sources": [
+          "recruiter_notes.txt"
+        ]
+      },
+      {
+        "name": "statistics",
+        "confidence": 0.7,
+        "sources": [
+          "recruiter_notes.txt"
+        ]
+      }
+    ],
+    "experience": [],
+    "education": [],
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "recruiter.csv",
+        "method": "direct"
+      },
+      {
+        "field": "emails",
+        "source": "recruiter.csv",
+        "method": "direct"
+      },
+      {
+        "field": "phones",
+        "source": "recruiter.csv",
+        "method": "direct"
+      },
+      {
+        "field": "location",
+        "source": "recruiter.csv",
+        "method": "direct"
+      },
+      {
+        "field": "headline",
+        "source": "recruiter_notes.txt",
+        "method": "extracted"
+      },
+      {
+        "field": "years_experience",
+        "source": "recruiter_notes.txt",
+        "method": "extracted"
+      },
+      {
+        "field": "skills.python",
+        "source": "recruiter_notes.txt",
+        "method": "direct/extracted"
+      },
+      {
+        "field": "skills.artificial intelligence",
+        "source": "recruiter_notes.txt",
+        "method": "direct/extracted"
+      },
+      {
+        "field": "skills.machine learning",
+        "source": "recruiter_notes.txt",
+        "method": "direct/extracted"
+      },
+      {
+        "field": "skills.statistics",
+        "source": "recruiter_notes.txt",
+        "method": "direct/extracted"
+      }
+    ],
+    "overall_confidence": 0.78
+  },
+  {
+    "candidate_id": "C003",
+    "full_name": "Arjun Mehta",
+    "emails": [
+      "arjun.mehta@gmail.com"
+    ],
+    "phones": [],
+    "location": {
+      "city": "Pune",
+      "region": "Maharashtra",
+      "country": "India"
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": "Frontend Developer",
+    "years_experience": 3,
+    "skills": [
+      {
+        "name": "css",
+        "confidence": 0.7,
+        "sources": [
+          "recruiter_notes.txt"
+        ]
+      },
+      {
+        "name": "javascript",
+        "confidence": 0.7,
+        "sources": [
+          "recruiter_notes.txt"
+        ]
+      },
+      {
+        "name": "react",
+        "confidence": 0.7,
+        "sources": [
+          "recruiter_notes.txt"
+        ]
+      }
+    ],
+    "experience": [],
+    "education": [],
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "recruiter.csv",
+        "method": "direct"
+      },
+      {
+        "field": "emails",
+        "source": "recruiter.csv",
+        "method": "direct"
+      },
+      {
+        "field": "location",
+        "source": "recruiter.csv",
+        "method": "direct"
+      },
+      {
+        "field": "headline",
+        "source": "recruiter_notes.txt",
+        "method": "extracted"
+      },
+      {
+        "field": "years_experience",
+        "source": "recruiter_notes.txt",
+        "method": "extracted"
+      },
+      {
+        "field": "skills.javascript",
+        "source": "recruiter_notes.txt",
+        "method": "direct/extracted"
+      },
+      {
+        "field": "skills.react",
+        "source": "recruiter_notes.txt",
+        "method": "direct/extracted"
+      },
+      {
+        "field": "skills.css",
+        "source": "recruiter_notes.txt",
+        "method": "direct/extracted"
+      }
+    ],
+    "overall_confidence": 0.78
+  },
+  {
+    "candidate_id": "C004",
+    "full_name": "Sneha Iyer",
+    "emails": [
+      "sneha.iyer@outlook.com"
+    ],
+    "phones": [
+      "+919123456789"
+    ],
+    "location": {
+      "city": null,
+      "region": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": "Product Manager",
+    "years_experience": 5,
+    "skills": [
+      {
+        "name": "artificial intelligence",
+        "confidence": 0.7,
+        "sources": [
+          "recruiter_notes.txt"
+        ]
+      },
+      {
+        "name": "product management",
+        "confidence": 0.7,
+        "sources": [
+          "recruiter_notes.txt"
+        ]
+      },
+      {
+        "name": "sql",
+        "confidence": 0.7,
+        "sources": [
+          "recruiter_notes.txt"
+        ]
+      }
+    ],
+    "experience": [],
+    "education": [],
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "recruiter_notes.txt",
+        "method": "extracted"
+      },
+      {
+        "field": "emails",
+        "source": "recruiter_notes.txt",
+        "method": "extracted"
+      },
+      {
+        "field": "phones",
+        "source": "recruiter_notes.txt",
+        "method": "extracted"
+      },
+      {
+        "field": "headline",
+        "source": "recruiter_notes.txt",
+        "method": "extracted"
+      },
+      {
+        "field": "years_experience",
+        "source": "recruiter_notes.txt",
+        "method": "extracted"
+      },
+      {
+        "field": "skills.product management",
+        "source": "recruiter_notes.txt",
+        "method": "direct/extracted"
+      },
+      {
+        "field": "skills.sql",
+        "source": "recruiter_notes.txt",
+        "method": "direct/extracted"
+      },
+      {
+        "field": "skills.artificial intelligence",
+        "source": "recruiter_notes.txt",
+        "method": "direct/extracted"
+      }
+    ],
+    "overall_confidence": 0.7
+  }
+]

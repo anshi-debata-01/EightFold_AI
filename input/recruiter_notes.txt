@@ -1,0 +1,20 @@
+Candidate: C001
+John is a Senior Backend Engineer with around 6 years of experience.
+Skills: Python, ML, Django, SQL
+Notes: Strong in system design, good communicator.
+
+Candidate: C002
+Priya Sharma - Data Scientist, has 4 years experience.
+Skills: py, ai, ML, Statistics
+Phone: 9876543222
+
+Candidate: C003
+Arjun is a Frontend Developer, 3 years experience building React apps.
+Skills: javascript, react, css
+Email: arjun.mehta@gmail.com
+
+Candidate: C004
+Sneha Iyer works as a Product Manager with 5 years experience in fintech.
+Skills: product management, sql, ai
+Email: Sneha.Iyer@outlook.com
+Phone: 9123456789

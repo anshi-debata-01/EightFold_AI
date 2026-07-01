@@ -1,0 +1,9 @@
+{
+  "fields": [
+    {"path": "name", "from": "full_name"},
+    {"path": "email", "from": "emails[0]"},
+    {"path": "top_skills", "from": "skills[].name"}
+  ],
+  "include_confidence": false,
+  "on_missing": "omit"
+}
